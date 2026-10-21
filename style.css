@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    list-style: none;
+    text-decoration: none;
+}
+.container{
+    max-width: 80%;
+    margin: 0 auto;
+}
+header{
+    background-color: #282829;
+}
+nav{
+    padding: 15px 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ul{
+    display: flex;
+    gap: 30px;
+}
+a{
+    color: white;
+}
+.h1{
+    text-align: center;
+    font-size: 88px;
+    margin-top: 114px;
+}
+.card{
+    width: 393px;
+
+}
+.card img{
+    width: 393px;
+
+}
+.otec{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px; ;
+}
